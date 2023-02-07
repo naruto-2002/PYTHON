@@ -1,0 +1,1 @@
+{"name":"Local: min_triple","url":"d:\\Documents\\nam_3_ki_2\\lap_trinh_phython\\danh_sach\\min_triple.py","tests":[{"id":1675356771010,"input":"2\n7\n1 2 3 0 -1 8 10 \n7\n9 8 20 3 4 -1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\nam_3_ki_2\\lap_trinh_phython\\danh_sach\\min_triple.py","group":"local","local":true}
