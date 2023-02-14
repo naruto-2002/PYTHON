@@ -1,0 +1,1 @@
+{"name":"Local: dia_chi_ip","url":"d:\\Documents\\nam_3_ki_2\\lap_trinh_phython\\danh_sach\\dia_chi_ip.py","tests":[{"id":1676171690122,"input":"2\n192.168.1.1\n256.255.255.255","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\nam_3_ki_2\\lap_trinh_phython\\danh_sach\\dia_chi_ip.py","group":"local","local":true}
